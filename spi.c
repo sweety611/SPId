@@ -1,5 +1,5 @@
 #include "msp430g2553.h"
-
+//comment
 unsigned char MST_Data, SLV_Data;
 
 void main(void)
